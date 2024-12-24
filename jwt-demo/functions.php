@@ -1,5 +1,5 @@
 <?php
-require '../../vendor/autoload.php';
+require '../../vendor/autoload.php'; //各自の環境に合わせ修正
 
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
